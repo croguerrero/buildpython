@@ -1,2 +1,2 @@
 # Push Container in DockerHUB.
-Testing pipeline.
+- Testing CI pipeline.
